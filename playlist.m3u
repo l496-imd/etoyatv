@@ -1,61 +1,253 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ЕБ-1" tvg-logo="https://cdn.etoyatv.top/images/design/logo_167_1789862034330.png",ЕБ-1
-https://kctv.etoyatv.top/live/eb1_television/index.m3u8
-#EXTINF:-1 tvg-name="Commet Europe" tvg-logo="",Commet Europe
-https://kctv.etoyatv.top/live/commeteu/index.m3u8
-#EXTINF:-1 tvg-name="15+ RYTP" tvg-logo="https://cdn.etoyatv.top/images/design/logo_95_1789904966589.png",15+ RYTP
-https://kctv.etoyatv.top/live/15plusrytp/index.m3u8
-#EXTINF:-1 tvg-name="ИНВАЛИДЫ ТВ" tvg-logo="https://cdn.etoyatv.top/images/design/logo_116_1787935888592.png",ИНВАЛИДЫ ТВ
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_116_1787935888592.png" ,ИНВАЛИДЫ ТВ
 https://kctv.etoyatv.top/live/invalidy-tv/index.m3u8
-#EXTINF:-1 tvg-name="Aster Pixel" tvg-logo="https://cdn.etoyatv.top/images/design/logo_32_1784887760744.png",Aster Pixel
-https://kctv.etoyatv.top/live/aster_pixel/index.m3u8
-#EXTINF:-1 tvg-name="СОЛО" tvg-logo="https://cdn.etoyatv.top/images/design/logo_47_1788337038469.png",СОЛО
-https://kctv.etoyatv.top/live/solotvru/index.m3u8
-#EXTINF:-1 tvg-name="Jamer" tvg-logo="",Jamer
-https://kctv.etoyatv.top/live/jamer/index.m3u8
-#EXTINF:-1 tvg-name="Commet" tvg-logo="https://cdn.etoyatv.top/images/design/logo_62_1786893696326.jpg",Commet
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_62_1786893696326.jpg" ,Commet
 https://kctv.etoyatv.top/live/commet/index.m3u8
-#EXTINF:-1 tvg-name="RUSIK" tvg-logo="https://cdn.etoyatv.top/images/design/logo_62_1784408141463.png",RUSIK
-https://kctv.etoyatv.top/live/tvrusik/index.m3u8
-#EXTINF:-1 tvg-name="Aster" tvg-logo="https://cdn.etoyatv.top/images/design/logo_32_1786619199229.png",Aster
-https://kctv.etoyatv.top/live/aster_itv/index.m3u8
-#EXTINF:-1 tvg-name="Tim TV" tvg-logo="https://cdn.etoyatv.top/images/design/logo_130_1788583308206.png",Tim TV
-https://kctv.etoyatv.top/live/timtv/index.m3u8
-#EXTINF:-1 tvg-name="reQo" tvg-logo="https://cdn.etoyatv.top/images/design/logo_90_1787743324750.jpg",reQo
-https://kctv.etoyatv.top/live/reqo/index.m3u8
-#EXTINF:-1 tvg-name="NDC TV" tvg-logo="https://cdn.etoyatv.top/images/design/logo_120_1788076621894.png",NDC TV
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_8_1786160700447.png" ,ЕрлАндрИД Онлайн
+https://kctv.etoyatv.top/live/erlandrid/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_7_1782936423044.apng" ,MGS Streams
+https://kctv.etoyatv.top/live/streams/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_118_1789921762022.png" ,TV 7
+https://kctv.etoyatv.top/live/konixctv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_167_1789862034330.png" ,ЕБ-1 Television
+https://kctv.etoyatv.top/live/eb1_television/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_120_1788076621894.png" ,NDC TV
 https://kctv.etoyatv.top/live/ndctv_live/index.m3u8
-#EXTINF:-1 tvg-name="dflash" tvg-logo="",dflash
-https://kctv.etoyatv.top/live/dflashtv/index.m3u8
-#EXTINF:-1 tvg-name="KPQ TV" tvg-logo="",KPQ TV
-https://lbgo.bozztv.com/ssh101/ssh101/kpqtv2025/playlist.m3u8
-#EXTINF:-1 tvg-name="їъоба тв.❤️" tvg-logo="",їъоба тв.❤️
-https://kctv.etoyatv.top/live/100/index.m3u8
-#EXTINF:-1 tvg-name="карен тв" tvg-logo="",карен тв
-https://kctv.etoyatv.top/live/karentv/index.m3u8
-#EXTINF:-1 tvg-name="ТРК" tvg-logo="",ТРК
-https://kctv.etoyatv.top/live/trk_live/index.m3u8
-#EXTINF:-1 tvg-name="OTK" tvg-logo="https://cdn.etoyatv.top/images/design/logo_1_1782918745256.png",OTK
-https://kctv.etoyatv.top/live/otk/index.m3u8
-#EXTINF:-1 tvg-name="YATB" tvg-logo="",YATB
-https://kctv.etoyatv.top/live/yatvchannel/index.m3u8
-#EXTINF:-1 tvg-name="беларусь 87" tvg-logo="https://cdn.etoyatv.top/images/design/logo_145_1789215150220.jpg",беларусь 87
-https://kctv.etoyatv.top/live/belaryc87/index.m3u8
-#EXTINF:-1 tvg-name="Jamer Music" tvg-logo="https://cdn.etoyatv.top/images/design/logo_130_1789914308448.png",Jamer Music
-https://kctv.etoyatv.top/live/jamermusic/index.m3u8
-#EXTINF:-1 tvg-name="Jamer x TIM-TV" tvg-logo="",Jamer x TIM-TV
-https://kctv.etoyatv.top/live/jamerxtimtv/index.m3u8
-#EXTINF:-1 tvg-name="Jamer Animation" tvg-logo="https://cdn.etoyatv.top/images/design/logo_130_1789914329447.png",Jamer Animation
-https://kctv.etoyatv.top/live/jameranimation/index.m3u8
-#EXTINF:-1 tvg-name="ITV SIGMOVICH" tvg-logo="https://cdn.etoyatv.top/images/design/logo_86_1786941179086.jpg",ITV SIGMOVICH
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_115_1788001326180.jpg" ,BBC Sasaburg
+https://kctv.etoyatv.top/live/bbcsasaburg/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_86_1786941179086.jpg" ,ITV SIGMOVICH
 https://kctv.etoyatv.top/live/itvsigmovichru/index.m3u8
-#EXTINF:-1 tvg-name="NRJ 12" tvg-logo="https://cdn.etoyatv.top/images/design/logo_146_1789672182162.jpg",NRJ 12
-https://kctv.etoyatv.top/live/Nrj12etoyatv/index.m3u8
-#EXTINF:-1 tvg-name="россия 67" tvg-logo="",россия 67
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,oleg
+https://kctv.etoyatv.top/live/oleg/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_27_1789913359926.jpg" ,ЖРадио (JRadio)
+https://kctv.etoyatv.top/live/jojradio/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_1_1782918745256.png" ,OTK
+https://kctv.etoyatv.top/live/otk/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,kdtv
+https://kctv.etoyatv.top/live/kdtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_10_1782942360929.png" ,НТК
+https://kctv.etoyatv.top/live/nashtk/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_12_1782732627855.png" ,ConnectMe
+https://kctv.etoyatv.top/live/con/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_13_1782544667497.png" ,СЛС
+https://kctv.etoyatv.top/live/sls/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_1_1782752641639.png" ,ТСР
+https://kctv.etoyatv.top/live/tsrsuper/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_8_1782761392946.png" ,РВОТА
+https://kctv.etoyatv.top/live/rvota_tv_official/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_1_1782751559299.jpg" ,K.S. Stream Studios
+https://kctv.etoyatv.top/live/ksstream/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_1_1782751647814.png" ,TSL
+https://kctv.etoyatv.top/live/tsl/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_1_1785235484141.jpg" ,ЭтоЯTV
+https://kctv.etoyatv.top/live/etoyatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_46_1782682814815.png" ,ДВИЖЕНИЕ
+https://kctv.etoyatv.top/live/dvizheniechannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_47_1788337038469.png" ,СОЛО
+https://kctv.etoyatv.top/live/solotvru/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_90_1787743324750.jpg" ,REQO
+https://kctv.etoyatv.top/live/reqo/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,ящики тв
+https://kctv.etoyatv.top/live/mafia2/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,CTV
+https://kctv.etoyatv.top/live/thectv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_130_1788583308206.png" ,TIM-TV
+https://kctv.etoyatv.top/live/timtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_62_1784408141463.png" ,RUSIK / Канал ЭСС (НевоЭСС)
+https://kctv.etoyatv.top/live/tvrusik/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_49_1789807527911.jpg" ,раша 1 ***лово
+https://kctv.etoyatv.top/live/russia1huilovo/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_32_1786619199229.png" ,Aster
+https://kctv.etoyatv.top/live/aster_itv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,DRT
+https://kctv.etoyatv.top/live/dirdirte/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,ТНТ5 -28 КАНАЛ
+https://kctv.etoyatv.top/live/tnt528kanal/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,MEGATUPOIMINDTV
+https://kctv.etoyatv.top/live/megatupoimindtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_131_1788623782489.png" ,BURMLD
+https://kctv.etoyatv.top/live/burmld/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_130_1789914329447.png" ,Jamer Animation / Канал X
+https://kctv.etoyatv.top/live/jameranimation/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_130_1789913643754.png" ,Jamer Alls
+https://kctv.etoyatv.top/live/jameralls/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_130_1789914308448.png" ,Jamer Music
+https://kctv.etoyatv.top/live/jamermusic/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_130_1789914293320.png" ,Jamer | Кристалл | Kennfix | Канал X | frantz_tv
+https://kctv.etoyatv.top/live/jamer/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,msdo
+https://kctv.etoyatv.top/live/msdo/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,Канал sv
+https://kctv.etoyatv.top/live/svchannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,ШКОЛАТВ
+https://kctv.etoyatv.top/live/vsev2tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,ндк тв 
+https://kctv.etoyatv.top/live/ndc_tv1337228/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,Срапусак
+https://kctv.etoyatv.top/live/srapusak/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_175_1789922923575.png" ,atv
+https://kctv.etoyatv.top/live/atv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,Марушкино 24 
+https://kctv.etoyatv.top/live/marushkino24/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,12.30
+https://kctv.etoyatv.top/live/12_30/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,Кибер-кафе "Log-Kertus"
+https://kctv.etoyatv.top/live/log-kertus/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_126_1788125548148.png" ,TVP 1 Zimbabwe
+https://kctv.etoyatv.top/live/tvpzimbabwe/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,EXCLUSIV TV (ХАРЬКОВ)
+https://kctv.etoyatv.top/live/kharkiv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,Commet Котеевск
+https://kctv.etoyatv.top/live/commet_kot/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_59_1789222502176.png" ,Дельта-ТВ
+https://kctv.etoyatv.top/live/solnechnagorsk24/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_66_1784543017059.jpg" ,Горячая Штучка Рукожопск
+https://kctv.etoyatv.top/live/govno/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,Commet
+https://kctv.etoyatv.top/live/commet_off/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,НАШЕ ТБ
+https://kctv.etoyatv.top/live/nashetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_66_1788161114362.webp" ,ZBC TV
+https://kctv.etoyatv.top/live/zbctv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_32_1784887760744.png" ,Aster Pixel
+https://kctv.etoyatv.top/live/aster_pixel/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_73_1784903312509.png" ,ФуджиКОММЕТ
+https://kctv.etoyatv.top/live/fudvikommet/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,strm
+https://kctv.etoyatv.top/live/strm/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_79_1786570330383.png" ,Музкультура 
+https://kctv.etoyatv.top/live/musicculture/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_66_1786690571576.png" ,LRT RUKOZHOPSK
+https://kctv.etoyatv.top/live/lrtrukozhopsk/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_84_1786894842307.png" ,LiveNet
+https://kctv.etoyatv.top/live/livenet/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,Bobovision live
+https://kctv.etoyatv.top/live/bobovision/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_80_1787050249956.png" ,Новгород
+https://kctv.etoyatv.top/live/nov/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_92_1787064019392.jpg" ,Телекакал-кал "SMASHMINE"
+https://kctv.etoyatv.top/live/smashmine/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_98_1787465857405.jpg" ,YAТВ
+https://kctv.etoyatv.top/live/yatvchannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_96_1787549728208.jpg" ,Brawl talk TV
+https://kctv.etoyatv.top/live/brawltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_99_1789094274478.png" ,dflash
+https://kctv.etoyatv.top/live/dflashtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_95_1789904966589.png" ,15+ RYTP
+https://kctv.etoyatv.top/live/15plusrytp/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_72_1787659838031.png" ,TVP3 Senya
+https://kctv.etoyatv.top/live/tvp3senya/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,CLICK
+https://kctv.etoyatv.top/live/clicktv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_38_1787680989600.png" ,Мидиа Ритеил
+https://kctv.etoyatv.top/live/midia_ryteil/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_38_1787685826697.jpg" ,КТ | Телеканал
+https://kctv.etoyatv.top/live/ktchannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,Seeneko
+https://kctv.etoyatv.top/live/seenekotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_110_1787854678164.jpg" ,Leto
+https://kctv.etoyatv.top/live/ltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,АлабугаТВ
+https://kctv.etoyatv.top/live/alabuga/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_113_1787905225924.png" ,DVD-Rip GOLD
+https://kctv.etoyatv.top/live/dvdripgold/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_114_1787870906127.jpg" ,Hydro TV
+https://kctv.etoyatv.top/live/hydrotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,ТВС
+https://kctv.etoyatv.top/live/ylb/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,Марушкино 24 
+https://kctv.etoyatv.top/live/marushkino24/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,ндк тв 
+https://kctv.etoyatv.top/live/ndc_tv1337228/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_86_1788952595293.jpg" ,ИТК КиноЭфир
+https://kctv.etoyatv.top/live/itkkinoefir/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,iнформационный mузыкальный rазвлекательный oбразовательный - imro
+https://kctv.etoyatv.top/live/imro_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_126_1788125548148.png" ,TVP 1 Zimbabwe
+https://kctv.etoyatv.top/live/tvpzimbabwe/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,Commet Котеевск
+https://kctv.etoyatv.top/live/commet_kot/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,ШКОЛАТВ
+https://kctv.etoyatv.top/live/vsev2tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,Канал sv
+https://kctv.etoyatv.top/live/svchannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,msdo
+https://kctv.etoyatv.top/live/msdo/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_130_1789914293320.png" ,Jamer | Кристалл | Kennfix | Канал X | frantz_tv
+https://kctv.etoyatv.top/live/jamer/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_130_1789914308448.png" ,Jamer Music
+https://kctv.etoyatv.top/live/jamermusic/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_130_1789913643754.png" ,Jamer Alls
+https://kctv.etoyatv.top/live/jameralls/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_130_1789914329447.png" ,Jamer Animation / Канал X
+https://kctv.etoyatv.top/live/jameranimation/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_131_1788623782489.png" ,BURMLD
+https://kctv.etoyatv.top/live/burmld/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,MEGATUPOIMINDTV
+https://kctv.etoyatv.top/live/megatupoimindtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,ТНТ5 -28 КАНАЛ
+https://kctv.etoyatv.top/live/tnt528kanal/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_103_1788844046907.jpg" ,FTCTV
+https://kctv.etoyatv.top/live/ftctv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,EVENTS TV
+https://kctv.etoyatv.top/live/eventstv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,SWTV
+https://kctv.etoyatv.top/live/swtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,TNT Fake (TV)
+https://kctv.etoyatv.top/live/tntfaketv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_140_1789095882837.jpg" ,SWTV
+https://kctv.etoyatv.top/live/swtvoffical/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_121_1789210581532.png" ,YoBa TV
+https://kctv.etoyatv.top/live/100/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,IMD24
+https://kctv.etoyatv.top/live/pisuntv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_142_1789218681118.jpg" ,карен тб
+https://kctv.etoyatv.top/live/karentv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_143_1789406835892.jpg" ,ТРК
+https://kctv.etoyatv.top/live/trk_live/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_145_1789215150220.jpg" ,Беларусь 87
+https://kctv.etoyatv.top/live/belaryc87/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_146_1789672182162.jpg" ,NRJ 12 Онлайн
+https://kctv.etoyatv.top/live/nrj12etoyatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,Coltishka TV
+https://kctv.etoyatv.top/live/coltishkatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_150_1789299344417.jpg" ,QVI TV
+https://kctv.etoyatv.top/live/qvi_tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,ITV SIGMOVICH Страна
+https://kctv.etoyatv.top/live/itvsigmovichhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,NikoTV
+https://kctv.etoyatv.top/live/nikopancakes_live/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,ГРИША ТВ
+https://kctv.etoyatv.top/live/grishatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,бобр тв
+https://kctv.etoyatv.top/live/bobrtvvv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_159_1789464453038.jpg" ,Fug
+https://kctv.etoyatv.top/live/fugkostyan/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_148_1789804245719.png" ,Россия 67
 https://kctv.etoyatv.top/live/russia67/index.m3u8
-#EXTINF:-1 tvg-name="NEX TV" tvg-logo="",NEX TV
-https://kctv.etoyatv.top/live/nextv_itv/index.m3u8
-#EXTINF:-1 tvg-name="BurmaldaTV" tvg-logo="https://cdn.etoyatv.top/images/design/logo_163_1789902376876.jpg",BurmaldaTV
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_163_1789902376876.jpg" ,BurmaldaTV
 https://kctv.etoyatv.top/live/burmaldatv/index.m3u8
-#EXTINF:-1 tvg-name="SWTV" tvg-logo="",SWTV
-https://kctv.etoyatv.top/live/swtvofficial/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_164_1789843603339.png" ,NEXTV
+https://kctv.etoyatv.top/live/nextv_itv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,OYOTV
+https://kctv.etoyatv.top/live/oyotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,Интернет-телеканал SE_TV
+https://kctv.etoyatv.top/live/setvrussia/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_99_1789908540424.png" ,Mesdill
+https://kctv.etoyatv.top/live/mesdilltv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,Linux Datamines
+https://kctv.etoyatv.top/live/lsdtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,DRT
+https://kctv.etoyatv.top/live/dirdirte/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,EXCLUSIV TV (ХАРЬКОВ)
+https://kctv.etoyatv.top/live/kharkiv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,Кибер-кафе "Log-Kertus"
+https://kctv.etoyatv.top/live/log-kertus/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,12.30
+https://kctv.etoyatv.top/live/12_30/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/design/logo_175_1789922923575.png" ,atv
+https://kctv.etoyatv.top/live/atv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,Срапусак
+https://kctv.etoyatv.top/live/srapusak/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.etoyatv.top/images/default_channel_logo.png" ,hello world
+https://kctv.etoyatv.top/live/helloworld/index.m3u8
