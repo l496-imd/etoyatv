@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ЕБ-1" tvg-logo="https://cdn.etoyatv.top/images/design/logo_167_1789862034330.png",ЕБ-1
+https://kctv.etoyatv.top/live/eb1_television/index.m3u8
+#EXTINF:-1 tvg-name="Commet Europe" tvg-logo="",Commet Europe
+https://kctv.etoyatv.top/live/commeteu/index.m3u8
+#EXTINF:-1 tvg-name="15+ RYTP" tvg-logo="https://cdn.etoyatv.top/images/design/logo_95_1789904966589.png",15+ RYTP
+https://kctv.etoyatv.top/live/15plusrytp/index.m3u8
+#EXTINF:-1 tvg-name="ИНВАЛИДЫ ТВ" tvg-logo="https://cdn.etoyatv.top/images/design/logo_116_1787935888592.png",ИНВАЛИДЫ ТВ
+https://kctv.etoyatv.top/live/invalidy-tv/index.m3u8
+#EXTINF:-1 tvg-name="Aster Pixel" tvg-logo="https://cdn.etoyatv.top/images/design/logo_32_1784887760744.png",Aster Pixel
+https://kctv.etoyatv.top/live/aster_pixel/index.m3u8
+#EXTINF:-1 tvg-name="СОЛО" tvg-logo="https://cdn.etoyatv.top/images/design/logo_47_1788337038469.png",СОЛО
+https://kctv.etoyatv.top/live/solotvru/index.m3u8
+#EXTINF:-1 tvg-name="Jamer" tvg-logo="",Jamer
+https://kctv.etoyatv.top/live/jamer/index.m3u8
+#EXTINF:-1 tvg-name="Commet" tvg-logo="https://cdn.etoyatv.top/images/design/logo_62_1786893696326.jpg",Commet
+https://kctv.etoyatv.top/live/commet/index.m3u8
+#EXTINF:-1 tvg-name="RUSIK" tvg-logo="https://cdn.etoyatv.top/images/design/logo_62_1784408141463.png",RUSIK
+https://kctv.etoyatv.top/live/tvrusik/index.m3u8
+#EXTINF:-1 tvg-name="Aster" tvg-logo="https://cdn.etoyatv.top/images/design/logo_32_1786619199229.png",Aster
+https://kctv.etoyatv.top/live/aster_itv/index.m3u8
+#EXTINF:-1 tvg-name="Tim TV" tvg-logo="https://cdn.etoyatv.top/images/design/logo_130_1788583308206.png",Tim TV
+https://kctv.etoyatv.top/live/timtv/index.m3u8
+#EXTINF:-1 tvg-name="reQo" tvg-logo="https://cdn.etoyatv.top/images/design/logo_90_1787743324750.jpg",reQo
+https://kctv.etoyatv.top/live/reqo/index.m3u8
+#EXTINF:-1 tvg-name="NDC TV" tvg-logo="https://cdn.etoyatv.top/images/design/logo_120_1788076621894.png",NDC TV
+https://kctv.etoyatv.top/live/ndctv_live/index.m3u8
+#EXTINF:-1 tvg-name="dflash" tvg-logo="",dflash
+https://kctv.etoyatv.top/live/dflashtv/index.m3u8
+#EXTINF:-1 tvg-name="KPQ TV" tvg-logo="",KPQ TV
+https://lbgo.bozztv.com/ssh101/ssh101/kpqtv2025/playlist.m3u8
+#EXTINF:-1 tvg-name="їъоба тв.❤️" tvg-logo="",їъоба тв.❤️
+https://kctv.etoyatv.top/live/100/index.m3u8
+#EXTINF:-1 tvg-name="карен тв" tvg-logo="",карен тв
+https://kctv.etoyatv.top/live/karentv/index.m3u8
+#EXTINF:-1 tvg-name="ТРК" tvg-logo="",ТРК
+https://kctv.etoyatv.top/live/trk_live/index.m3u8
+#EXTINF:-1 tvg-name="OTK" tvg-logo="https://cdn.etoyatv.top/images/design/logo_1_1782918745256.png",OTK
+https://kctv.etoyatv.top/live/otk/index.m3u8
+#EXTINF:-1 tvg-name="YATB" tvg-logo="",YATB
+https://kctv.etoyatv.top/live/yatvchannel/index.m3u8
+#EXTINF:-1 tvg-name="беларусь 87" tvg-logo="https://cdn.etoyatv.top/images/design/logo_145_1789215150220.jpg",беларусь 87
+https://kctv.etoyatv.top/live/belaryc87/index.m3u8
+#EXTINF:-1 tvg-name="Jamer Music" tvg-logo="https://cdn.etoyatv.top/images/design/logo_130_1789914308448.png",Jamer Music
+https://kctv.etoyatv.top/live/jamermusic/index.m3u8
+#EXTINF:-1 tvg-name="Jamer x TIM-TV" tvg-logo="",Jamer x TIM-TV
+https://kctv.etoyatv.top/live/jamerxtimtv/index.m3u8
+#EXTINF:-1 tvg-name="Jamer Animation" tvg-logo="https://cdn.etoyatv.top/images/design/logo_130_1789914329447.png",Jamer Animation
+https://kctv.etoyatv.top/live/jameranimation/index.m3u8
+#EXTINF:-1 tvg-name="ITV SIGMOVICH" tvg-logo="https://cdn.etoyatv.top/images/design/logo_86_1786941179086.jpg",ITV SIGMOVICH
+https://kctv.etoyatv.top/live/itvsigmovichru/index.m3u8
+#EXTINF:-1 tvg-name="NRJ 12" tvg-logo="https://cdn.etoyatv.top/images/design/logo_146_1789672182162.jpg",NRJ 12
+https://kctv.etoyatv.top/live/Nrj12etoyatv/index.m3u8
+#EXTINF:-1 tvg-name="россия 67" tvg-logo="",россия 67
+https://kctv.etoyatv.top/live/russia67/index.m3u8
+#EXTINF:-1 tvg-name="NEX TV" tvg-logo="",NEX TV
+https://kctv.etoyatv.top/live/nextv_itv/index.m3u8
+#EXTINF:-1 tvg-name="BurmaldaTV" tvg-logo="https://cdn.etoyatv.top/images/design/logo_163_1789902376876.jpg",BurmaldaTV
+https://kctv.etoyatv.top/live/burmaldatv/index.m3u8
+#EXTINF:-1 tvg-name="SWTV" tvg-logo="",SWTV
+https://kctv.etoyatv.top/live/swtvofficial/index.m3u8
